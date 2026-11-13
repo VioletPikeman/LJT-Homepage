@@ -33,7 +33,7 @@ My research interests include **LLM reasoning and reinforcement learning**, **ha
 
 ## Publications
 
-(See also the [Publications](/publications/) page.)
+(See also the [Publications]({{ site.url }}{{ site.baseurl }}/publications/) page.)
 
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** — First author. arXiv preprint, 2025. Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. Code available on GitHub.
 - **On the Perception Bottleneck of VLMs for Chart Understanding** — First author. arXiv preprint, 2025. Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. Code: Vision4Chart.
