@@ -222,10 +222,6 @@ sass:
   sass_dir: _sass
   style: compressed
 
-sass:
-  sass_dir: _sass
-  style: compressed
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Etc/UTC
